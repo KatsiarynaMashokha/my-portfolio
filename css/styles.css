@@ -14,6 +14,7 @@
   text-align: center;
   padding-bottom: 5px;
   margin: 10px;
+  font-family: monospace;
 }
 
 #contact_info ul {
@@ -48,12 +49,18 @@ hr {
 }
 .panel-heading {
   color: red;
-  font-size: 17.5px;
+  font-size: 21px;
   font-weight: bold;
   text-align: center;
   margin: 5px;
+  font-family: cursive;
 }
 
 body {
    background: linear-gradient(grey, blue);
+}
+
+.important {
+  font-size: 18sp;
+  font-weight: bolder;
 }
