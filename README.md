@@ -12,7 +12,7 @@ _My portfolio page written in HTML which uses the following elements:_
 * _Hyperlinks_
 
 ## Setup/Installation Requirements
-_Just lauch a page using the following address:_
+_Just lauch a page using the following address: https://katsiarynamashokha.github.io/my-portfolio/_
 
 ## Support and contact details
 _For any concerns or questions email to: katsiarynamashokha@gmail.com_
