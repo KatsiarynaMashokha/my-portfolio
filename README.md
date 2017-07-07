@@ -18,4 +18,4 @@ _Just lauch a page using the following address: https://katsiarynamashokha.githu
 _For any concerns or questions email to: katsiarynamashokha@gmail.com_
 
 ### License
-Copyright (c) 2017 **_{Katsiaryna Mashokha}_**
+Copyright (c) 2017 **_Katsiaryna Mashokha_**
