@@ -7,7 +7,6 @@
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
-
 #header {
   background-color: #D3D3D3;
   border-radius: 5px;
@@ -16,7 +15,6 @@
   margin: 10px;
   font-family: monospace;
 }
-
 #contact_info ul {
   list-style: none;
   margin: 0;
@@ -28,14 +26,12 @@
   color: white;
   font-size: 18px;
 }
-
 #contact_info li {
   display: inline;
 }
- h3 {
+h3 {
    margin-left: 10px;
  }
-
 hr {
   display: block;
   margin: 10px;
@@ -43,7 +39,6 @@ hr {
   border-top: 1px solid;
   margin-bottom: 20px;
 }
-
 .panel {
   margin: 5px;
 }
@@ -55,12 +50,13 @@ hr {
   margin: 5px;
   font-family: cursive;
 }
-
 body {
    background: linear-gradient(grey, blue);
 }
-
 .important {
   font-size: 14px;
   font-weight: bolder;
+}
+.right {
+  float: right;
 }

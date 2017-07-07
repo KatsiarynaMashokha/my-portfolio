@@ -16,3 +16,6 @@ _Just lauch a page using the following address: https://katsiarynamashokha.githu
 
 ## Support and contact details
 _For any concerns or questions email to: katsiarynamashokha@gmail.com_
+
+### License
+Copyright (c) 2017 **_{Katsiaryna Mashokha}_**
